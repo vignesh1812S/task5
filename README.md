@@ -1,5 +1,5 @@
 
-# Consumer Complaints Analysis
+# TASK 5
 
 This project analyzes a dataset of consumer complaints using Python. The primary focus is on loading the dataset, performing exploratory data analysis (EDA), and preparing the data for further machine learning or statistical modeling.
 
@@ -39,7 +39,10 @@ This project analyzes a dataset of consumer complaints using Python. The primary
 2. Ensure the `complaints.csv` file is located in your **My Drive**.
 3. Execute the cells in order for EDA and insights.
 
-## 📌 Notes
+## 📌 Screenshots
+![3](https://github.com/user-attachments/assets/7bd82131-b991-4691-8b1d-176ba632f5e8)
 
-- The analysis assumes that only four key product categories are of interest.
-- Visualization and insights help understand consumer behavior and complaint trends.
+![4](https://github.com/user-attachments/assets/d4326079-aaf5-4f14-afbc-bc6bb31dcf2f)
+
+![5](https://github.com/user-attachments/assets/13dfa144-25a6-40a0-9318-a67946317d34)
+
